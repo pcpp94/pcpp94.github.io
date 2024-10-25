@@ -1,0 +1,67 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Pablo Paredes</title>
+  <subtitle>Explore smart ETL pipelines, Data Science, AI, and Advanced Analytics focused on the energy sector. This platform showcases innovative analysis, data-driven insights, and tools for solving real-world power industry challenges. Harness predictive analytics, time-series forecasting, machine learning, and AI to gain deep insights into energy systems.</subtitle>
+  <updated>2024-10-25T17:57:27+04:00</updated>
+  <author>
+    <name>Pablo Paredes</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 Pablo Paredes </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Honors and Awards</title>
+    <link href="http://localhost:4000/posts/awards/" rel="alternate" type="text/html" title="Honors and Awards" />
+    <published>2024-10-24T14:30:24+04:00</published>
+  
+    <updated>2024-10-24T14:30:24+04:00</updated>
+  
+    <id>http://localhost:4000/posts/awards/</id>
+    <content src="http://localhost:4000/posts/awards/" />
+    <author>
+      <name>Pablo Paredes</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Given by top educational institutions +</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Hello world!</title>
+    <link href="http://localhost:4000/posts/hello/" rel="alternate" type="text/html" title="Hello world!" />
+    <published>2024-10-23T20:30:24+04:00</published>
+  
+    <updated>2024-10-23T20:30:24+04:00</updated>
+  
+    <id>http://localhost:4000/posts/hello/</id>
+    <content src="http://localhost:4000/posts/hello/" />
+    <author>
+      <name>Pablo Paredes</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Brief &amp;#39;About me&amp;#39; section and Home&amp;#39;s scope.</summary>
+
+  </entry>
+
+</feed>
+
+

@@ -1,0 +1,23 @@
+
+
+{
+  "name": "Pablo Paredes",
+  "short_name": "Pablo Paredes",
+  "description": "Explore smart ETL pipelines, Data Science, AI, and Advanced Analytics focused on the energy sector. This platform showcases innovative analysis, data-driven insights, and tools for solving real-world power industry challenges. Harness predictive analytics, time-series forecasting, machine learning, and AI to gain deep insights into energy systems.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+
