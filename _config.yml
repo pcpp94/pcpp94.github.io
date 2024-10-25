@@ -236,9 +236,3 @@ exclude:
 
 plugins:
   - jekyll-github-metadata
-
-htmlproofer:
-  check_html: true
-  disable_external: true
-  checks_to_ignore:
-    - "LinkCheck"
