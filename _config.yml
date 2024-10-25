@@ -32,6 +32,8 @@ description: >- # used by seo meta and the atom feed
 
 url: "https://github.com/pcpp94/pcpp94.github.io"
 
+repository: pcpp94/pcpp94.github.io
+
 github:
   username: pcpp94
   repository: pcpp94/pcpp94.github.io
