@@ -233,3 +233,6 @@ exclude:
 
 plugins:
   - jekyll-github-metadata
+
+github:
+  repository: pcpp94/pcpp94.github.io
