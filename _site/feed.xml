@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Pablo Paredes</title>
   <subtitle>Explore smart ETL pipelines, Data Science, AI, and Advanced Analytics focused on the energy sector. This platform showcases innovative analysis, data-driven insights, and tools for solving real-world power industry challenges. Harness predictive analytics, time-series forecasting, machine learning, and AI to gain deep insights into energy systems.</subtitle>
-  <updated>2024-10-25T18:36:48+04:00</updated>
+  <updated>2024-10-25T18:45:18+04:00</updated>
   <author>
     <name>Pablo Paredes</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/awards/" rel="alternate" type="text/html" title="Honors and Awards" />
     <published>2024-10-24T14:30:24+04:00</published>
   
-    <updated>2024-10-24T14:30:24+04:00</updated>
+    <updated>2024-10-25T18:37:31+04:00</updated>
   
     <id>http://localhost:4000/posts/awards/</id>
     <content src="http://localhost:4000/posts/awards/" />
