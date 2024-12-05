@@ -10,13 +10,13 @@ order: 1
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="pablo-paredes-pedraglio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/pablo-paredes-pedraglio?trk=profile-badge"></a></div>
 
 Citizenships: Australian, Italian, Peruvian + right to work in the UK.\
-Fluent in English and Spanish. Italian intermediate level.
 
 <a href="https://www.linkedin.com/in/pablo-paredes-pedraglio/" class="btn btn-outline-primary">LinkedIn Profile</a>
 
 ## Snapshot
 
-Driven by a deep passion for advanced analytics and the energy sector, I thrive on tackling complex challenges with a focus on clarity, modularity, and actionable insights. Apart from being a proficient coder, I bring a strong mathematical foundation, underscored by ranking 1st place in Engineering. I believe powerful analytics isn’t just about technical skill—it’s about making data understandable and impactful. Motivated and always up for a challenge, I’m committed to delivering transparent, well-structured solutions that drive meaningful change.
+Former 1st place in Industrial Engineering, Universidad de Lima.\
+Passionate about leveraging advanced analytics and scalable technology to uncover actionable insights. Proven ability to design and implement data pipelines, develop Statistical, ML, AI, and Optimization models, and deliver impactful results in the energy sector. Recognized for innovative problem-solving, coding proficiency, and a commitment to technical excellence, thriving in challenging tasks.
 
 ### Base toolset
 

@@ -34,4 +34,18 @@ order: 3
     </a>
   </article>
 
+  <article class="card-wrapper card">
+    <a href="https://medium.com/@pcparedesp/automating-etl-pipelines-with-limited-resources-and-messy-legacy-data-sources-b73ac79e4d52" target="_blank" class="post-preview row g-0 flex-md-row-reverse">
+      <div class="col-md-12">
+        <div class="card-body">
+          <h1 class="card-title my-2 mt-md-0">Automating Messy Legacy Data-Sources ETL Pipelines with Limited Resources</h1>
+          <div class="card-text content mt-0 mb-3">
+            <p>Example of the implementation of an ETL pipeline when constrained technology-wise.</p>
+            <li>Data Ingestion from messy legacy Excel files, web-scraping, and other sources.</li>
+          </div>
+        </div>
+      </div>
+    </a>
+  </article>
+
 </div>
