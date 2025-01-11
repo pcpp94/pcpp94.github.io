@@ -37,6 +37,8 @@ This repository is automatically updated with new releases from the theme reposi
 
 This work is published under [MIT][mit] License.
 
+mmhm
+
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
